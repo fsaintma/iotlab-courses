@@ -18,14 +18,14 @@ class: center, middle
 
 - a strong experience in [IoT courses](https://www.iot-lab.info/community/education/) (> 30 courses)
 
-- COVID19 ➔ increased need for online courses
-
 - synergy of two projects: [RIOT OS](https://www.riot-os.org/) and FIT IoT-LAB testbed
+
+- COVID19 ➔ increased need for online courses
 
 - two current courses on the IoT-LAB testbed
 
 .center[
-    <img src="images/iotlab-events.png" alt="" style="width:500px;"/>
+    <img src="images/iotlab-events.png" alt="" style="width:325px;"/>
 ]
 
 .center[
@@ -35,8 +35,6 @@ class: center, middle
 | [EWSN2021 IoT tutorial](https://ewsn2021.ewi.tudelft.nl/workshops-and-tutorials) (*) | 3 hours | ≈ 30 |
 ]
 
-</br>
-</br>
 (*) Virtual conference with Zoom and Slack
 
 ---
@@ -57,7 +55,8 @@ class: center, middle
   * managed by INRIA DSI for the 1st MOOC session
   * creation of [IoT-LAB Labs](https://labs.iot-lab.info)
   * add MOOC LoRaWAN notebooks
-* **September 2020**: add MOOC LoRaWAN module 
+* **September 2020**: [RIOT Summit](https://summit.riot-os.org/2020/) & [RIOT Summit tutorial: Iot security](https://riot-os.github.io/riot-course/slides/tutorial-summit-security/#1)
+* **October 2020**: add MOOC LoRaWAN module 
 * **February 2021**: start of 2nd Mooc session and EWSN tutorial
   * EWSN tutorial support = HTML/Markdown slides with automatic launch of IoT-LAB Labs notebooks (inspired by [RIOT courses](https://github.com/RIOT-OS/riot-course))
 
@@ -99,10 +98,12 @@ Available at **https://labs.iot-lab.info**
 - 3rd Mooc session (BLE mesh, Ultra Wideband)
 - Add Zephyr OS support (RIOT OS and Contiki-NG already supported)
   - Write Zephyr OS port for IoT-LAB M3/A8-M3 nodes
+- Embedded Linux conference submission (i.e. Linux fondation)
 - New notebooks:
   - Embedded Linux nodes (Yocto Linux images)
   - IA (Jetson Nano), Deep Learning (Gapuino) nodes
-- Embedded Linux conference submission (i.e. Linux fondation)
+  - Edge computing
+  - SDR (Software Define Radio)
 
 .center[
     <img src="images/campus-academy.png" alt="" style="width:500px;"/>
